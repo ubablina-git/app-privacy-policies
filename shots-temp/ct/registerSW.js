@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/app-privacy-policies/shots-temp/ct/sw.js', { scope: '/app-privacy-policies/shots-temp/ct/' })})}
